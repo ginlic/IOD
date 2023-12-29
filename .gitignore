@@ -1,6 +1,9 @@
 DATA
+Personal
 path/data
 path/Data
+path/Personal
+path/personal
 *.csv
 *.pdf
 *.pptx
